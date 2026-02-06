@@ -1,49 +1,44 @@
 <h1 align="center">Hi 👋, I'm Yash Rathod</h1>
-<h3 align="center">Full Stack Developer | MERN | Django | AI/ML Enthusiast | Problem Solver</h3>
+
+<h3 align="center">
+⚡ Full Stack Developer | MERN | Django | AI/ML Enthusiast | Problem Solver
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=3FCACA&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;AI+Integrated+Systems;Dashboard+Architect;Scalable+Full+Stack+Solutions+🚀" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=yash-2707&label=Profile%20Views&color=3fcaca&style=for-the-badge" />
+</p>
 
 ---
 
-🚀 Passionate developer focused on building modern web applications , Management systems , and AI-powered tools.
+🚀 Passionate developer focused on building **modern web applications**, **management systems**, and **AI-powered solutions**.
 
-I enjoy transforming complex ideas into practical and scalable solutions using modern technologies.
+I enjoy transforming complex ideas into practical, scalable, and high-performance systems using modern technologies.
 
 ---
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on Full Stack Projects (React + Django + MERN)
-- 🤖 Exploring AI/ML 
-- 📊 Building analytics dashboards with real-world metrics for monitoring the performance of the indiviual .
-- 🎯 Interested in System Design, Cloud Applications, and Scalable Architecture.
+- 🔭 Currently building Full Stack Projects (React + Django + MERN)
+- 🤖 Exploring AI/ML and intelligent automation
+- 📊 Creating analytics dashboards for performance monitoring
+- 🎯 Interested in System Design, Cloud Applications & Scalable Architecture
 - 💡 Hackathon enthusiast & continuous learner
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🚀 Frontend
-- React.js
-- HTML & CSS
-- Tailwind CSS
-- JavaScript (ES6+)
-- Responsive UI Design
+<p align="center">
 
-### ⚙ Backend
-- Node.js
-- Express.js
-- Django
-- Flask
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,django,flask,mongodb,mysql,firebase,git,github,azure" />
 
-### 🗄 Database
-- MongoDB
-- SQL
-
-### ☁ Tools & Technologies
-- Git & GitHub
-- Firebase
-- REST APIs
-- Azure / Cloud Concepts
-- Data Visualization (Charts & Analytics)
+</p>
 
 ---
 
@@ -53,13 +48,13 @@ I enjoy transforming complex ideas into practical and scalable solutions using m
 - Data-driven dashboard with ATS & OTC calculations
 - Client filtering & analytics visualization
 - Modern UI with charts
-- Performance monitoring and task management system
+- Performance monitoring & task management
 
 🤖 **CodeWiz**
 - OpenAI API integration
 - Dynamic prompt-based responses
 - Full-stack architecture
-- Collaborative Platform
+- Collaborative AI platform
 
 🎓 **E-learning Platform**
 - Educational system design
@@ -68,17 +63,26 @@ I enjoy transforming complex ideas into practical and scalable solutions using m
 ---
 
 
+## 🐍 Contribution Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
-- 🌎 Portfolio: https://yashrathodportfolio.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/yash-rathod-2a9a64256/
+🌎 Portfolio: https://yashrathodportfolio.vercel.app/
+
+💼 LinkedIn: https://www.linkedin.com/in/yash-rathod-2a9a64256/
 
 ---
 
 ## ⚡ Fun Fact
 
-I love building Scalable Systems 🚀
+I love building scalable systems and modern glowing UI experiences 🚀
 
 ---
 
-⭐ Always learning. Always building.
+<h3 align="center">⭐ Always Learning. Always Building.</h3>
