@@ -67,17 +67,6 @@ I enjoy transforming complex ideas into practical and scalable solutions using m
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash-2707&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-2707&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
