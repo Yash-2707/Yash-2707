@@ -49,7 +49,7 @@ I enjoy transforming complex ideas into practical and scalable solutions using m
 
 ## 🌟 Featured Projects
 
-🔥 **Project Management System **
+🔥 **Project Management System**
 - Data-driven dashboard with ATS & OTC calculations
 - Client filtering & analytics visualization
 - Modern UI with charts
