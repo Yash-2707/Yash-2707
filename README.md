@@ -85,4 +85,4 @@ I love building scalable systems 🚀
 
 ---
 
-<h3 align="center">⭐ Always Learning. Always Building.</h3>
+<h3 align="center">⭐ Always Learning. Always Building and Optimizing.</h3>
