@@ -81,7 +81,7 @@ I enjoy transforming complex ideas into practical, scalable, and high-performanc
 
 ## ⚡ Fun Fact
 
-I love building scalable systems 🚀
+I love building scalable systems 
 
 ---
 
