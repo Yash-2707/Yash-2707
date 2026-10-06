@@ -24,7 +24,7 @@ I enjoy transforming complex ideas into practical, scalable, and high-performanc
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building Full Stack Projects (React + Django + MERN)
+- 🔭 Currently building Full Stack Projects (React + Django + MERN + .Net , C# & Angular) 
 - 🤖 Exploring AI/ML and intelligent automation
 - 📊 Creating analytics dashboards for performance monitoring
 - 🎯 Interested in System Design, Cloud Applications & Scalable Architecture
