@@ -43,20 +43,29 @@ I enjoy transforming complex ideas into practical, scalable, and high-performanc
 ---
 
 ## 🌟 Featured Projects
+**Enterprise Resource Planning (ERP) System**
+- Purchase Order (PO) & Sales Order (SO) management
+- Purchase Invoice & Sales Invoice processing
+- Multi-role authentication and authorization (Admin, Manager, Employee, Accounts)
+- Asset management and tracking
+- Inventory and stock management
+- Role-based dashboards and workflow approvals
+- Financial reporting and analytics
+- Secure enterprise-grade architecture
 
-🔥 **Project Management System**
+ **Project Management System**
 - Data-driven dashboard with ATS & OTC calculations
 - Client filtering & analytics visualization
 - Modern UI with charts
 - Performance monitoring & task management
 
-🤖 **CodeWiz**
+ **CodeWiz**
 - OpenAI API integration
 - Dynamic prompt-based responses
 - Full-stack architecture
 - Collaborative AI platform
 
-🎓 **E-learning Platform**
+ **E-learning Platform**
 - Educational system design
 - Interactive user experience
 
@@ -73,7 +82,7 @@ I enjoy transforming complex ideas into practical, scalable, and high-performanc
 
 ## 🌐 Connect With Me
 
-🌎 Portfolio: https://yashrathodportfolio.vercel.app/
+🌎 Portfolio: https://yashrathod.me
 
 💼 LinkedIn: https://www.linkedin.com/in/yash-rathod-2a9a64256/
 
