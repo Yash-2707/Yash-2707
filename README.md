@@ -36,7 +36,7 @@ I enjoy transforming complex ideas into practical, scalable, and high-performanc
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,django,flask,mongodb,mysql,firebase,git,github,azure,.net.C#,angular" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,django,flask,mongodb,mysql,firebase,git,github,azure,dotnet,cs,angular" />
 
 </p>
 
